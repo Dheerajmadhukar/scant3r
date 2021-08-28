@@ -1,6 +1,0 @@
-requests
-colorama
-nimporter
-pyyaml
-tldextract
-fuzzywuzzy
